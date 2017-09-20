@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "13164215207",
+    "firebase_url": "https://snacktime-b2ed4.firebaseio.com",
+    "project_id": "snacktime-b2ed4",
+    "storage_bucket": "snacktime-b2ed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13164215207:android:b21bef4ee3246a84",
+        "android_client_info": {
+          "package_name": "com.example.meganiu.snacktime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13164215207-lgnr7crdgk240hjkbbkrnvcnr56r0gi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQm4hwBl9RtFARZWaqXFY2TvDufci1VWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13164215207:android:1c0d6f590c1b3672",
+        "android_client_info": {
+          "package_name": "com.herprogramacion.crmleads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13164215207-lgnr7crdgk240hjkbbkrnvcnr56r0gi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQm4hwBl9RtFARZWaqXFY2TvDufci1VWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
